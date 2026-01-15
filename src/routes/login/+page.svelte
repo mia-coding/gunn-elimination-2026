@@ -23,7 +23,7 @@
 		const { data, error } = await supabase.auth.signInWithOAuth({
 			provider: 'google',
 			options: {
-				redirectTo: `${url}/api/auth/callback`, // potentially add killcode when logging in (after scanning qr code)
+				redirectTo: `${window.location.origin}/api/auth/callback`,
 				scopes: 'openid profile email',
 			}
 		});
