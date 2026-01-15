@@ -16,11 +16,17 @@
 			safe.
 		</div>
 		<a
-			href="https://docs.google.com/document/d/1uJEGcxu-WBbnwJSGYhfKRzyuKRkAJNGht6FCeofEMvA/edit?usp=sharing"
+			href="https://docs.google.com/document/d/1UXb95TSkPEwlsb6jPRCTJyQ57xhrqAm3R6lBBDKE7jg/edit?tab=t.0"
 			target="_blank"
-			class="rounded-lg px-4 py-2 underline hover:text-neutral-400">All Rules and Game Calendar</a
+			class="rounded-lg px-4 py-2 underline hover:text-neutral-400">Below is the official 2026 game calendar with all daily rules and target changes:</a
 		>
-		<img src={calendarImage} alt="calendar" />
+		<div class="flex justify-center">
+  <img 
+    src="/elimination-calendar.png" 
+    alt="2026 Elimination Calendar"
+    class="rounded-xl shadow-lg max-w-full"
+  />
+</div>
 	</div>
 </Container>
 <Footer />

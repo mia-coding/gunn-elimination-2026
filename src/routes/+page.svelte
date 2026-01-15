@@ -9,7 +9,7 @@
 		<div
 			class="animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text font-bold text-transparent"
 		>
-			Gunn Elimination
+			Gunn Elimination 2026
 		</div>
 	</h1>
 	<div class="flex space-x-4">

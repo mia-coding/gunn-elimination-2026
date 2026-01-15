@@ -12,8 +12,8 @@
 			For reporting, <b>please CC the other person</b> in your email. Remember to read all rules before
 			sending us anything.
 		</div>
-		<div class="rounded-lg bg-neutral-900 px-4 py-2">Meni Gottesman: mg45460@pausd.us</div>
-		<div class="rounded-lg bg-neutral-900 px-4 py-2">Nia Porter: np33355@pausd.us</div>
+		<div class="rounded-lg bg-neutral-900 px-4 py-2">Mia Yair: my40666@pausd.us</div>
+		<div class="rounded-lg bg-neutral-900 px-4 py-2">Natalie Chan: nc34609@pausd.us</div>
 	</div>
 </Container>
 <Footer />

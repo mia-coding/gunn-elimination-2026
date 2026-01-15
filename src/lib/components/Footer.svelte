@@ -3,7 +3,7 @@
     <span class="text-sm text-gray-400 sm:text-center">
       Made by 
       <a href="https://github.com/ThePickleGawd" class="hover:underline">Dylan Lu</a>, improved by 
-      <a href="https://menigottesman.com/" class="hover:underline">Meni Gottesman</a>
+      <a href="#" class="hover:underline">Mia Yair</a>
     </span>
     <ul class="mt-3 flex flex-wrap items-center text-sm font-medium text-gray-400 md:mt-0">
       <li>
