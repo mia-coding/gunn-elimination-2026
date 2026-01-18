@@ -28,6 +28,9 @@ export const handle: Handle = async ({ event, resolve }) => {
 
 	event.locals.getRole = async () => {
 		const session = await event.locals.getSession();
+
+		if (!session?.user?.id) return null;
+		
 		const { data } = await event.locals.supabase
 			.from('players')
 			.select('role')
