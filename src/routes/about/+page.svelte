@@ -2,7 +2,7 @@
 	import Container from '$lib/components/Container.svelte';
 	import Footer from '$lib/components/Footer.svelte';
 
-	import calendarImage from '$static/elimination-calendar.png';
+	import calendarImage from '$lib/assets/images/elimination-calendar.png';
 </script>
 
 <Container class="h-full w-screen">
