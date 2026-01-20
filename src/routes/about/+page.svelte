@@ -16,9 +16,9 @@
 			safe.
 		</div>
 		<a
-			href="https://docs.google.com/document/d/1UXb95TSkPEwlsb6jPRCTJyQ57xhrqAm3R6lBBDKE7jg/edit?tab=t.0"
+			href="https://docs.google.com/document/d/1uJEGcxu-WBbnwJSGYhfKRzyuKRkAJNGht6FCeofEMvA/edit?tab=t.0"
 			target="_blank"
-			class="rounded-lg px-4 py-2 underline hover:text-neutral-400">Below is the official 2026 game calendar with all daily rules and target changes:</a
+			class="rounded-lg px-4 py-2 underline hover:text-neutral-400">Below is the official 2026 rules for the game, along with the game calendar with all daily rules and target changes:</a
 		>
 		<div class="flex justify-center">
   <img 
