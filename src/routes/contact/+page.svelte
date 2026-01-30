@@ -17,5 +17,15 @@
 			class="rounded-lg px-4 py-2 underline hover:text-neutral-400">https://forms.gle/7CHxeWRAjVL2MrRF6</a
 		></div>
 	</div>
+	<div class="mt-4 flex flex-col space-y-2 rounded-lg p-4 text-center text-neutral-300">
+		<div class="text-xl">
+			Here's an FAQ with common questions and concerns to help you out:
+		</div>
+		<div class="rounded-lg bg-neutral-900 px-4 py-2"><a
+			href="https://tinyurl.com/47k45e3e"
+			target="_blank"
+			class="rounded-lg px-4 py-2 underline hover:text-neutral-400">https://tinyurl.com/47k45e3e</a
+		></div>
+	</div>
 </Container>
 <Footer />
