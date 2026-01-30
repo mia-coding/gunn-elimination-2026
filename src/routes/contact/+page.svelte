@@ -12,6 +12,7 @@
 			For reporting, <b>please CC the other person</b> in your email. Remember to read all rules before
 			sending us anything.
 		</div>
+		<div class="rounded-lg bg-neutral-900 px-4 py-2">Fill out this form for questions or concerns: https://forms.gle/7CHxeWRAjVL2MrRF6</div>
 		<div class="rounded-lg bg-neutral-900 px-4 py-2">Mia Yair: my40666@pausd.us</div>
 		<div class="rounded-lg bg-neutral-900 px-4 py-2">Natalie Chan: nc34609@pausd.us</div>
 	</div>
