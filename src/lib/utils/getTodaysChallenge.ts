@@ -24,12 +24,12 @@ const rules = {
     9: 'To eliminate others, players must be SITTING OR LAYING DOWN ON THE GROUND',
     10: 'To eliminate others, players must have at least one shoe off',
     11: 'Targets Change at 10 PM: To eliminate others, players must give their target a flower immediately after eliminating them',
-    12: 'Weekend rules apply: Players must abide by all rules and must carry a plushie to be safe',
-    13: 'Weekend rules apply: Players must abide by all rules and must carry a plushie to be safe',
+    12: 'To eliminate others, players must be playing a song from their phone or laptop before the elimination (THAT IS LOUD ENOUGH FOR THEIR TARGET TO HEAR)',
+    13: '(No school) Weekend rules apply: Players must abide by all rules and must carry a plushie to be safe',
     14: 'Weekend rules apply: Players must abide by all rules and must carry a plushie to be safe',
     15: 'Weekend rules apply: Players must abide by all rules and must carry a plushie to be safe',
-    16: 'Weekend rules apply: Players must abide by all rules and must carry a plushie to be safe',
-    17: 'NO ONE IS SAFE (can be tagged anytime even with the animal)',
+    16: '(No school) Weekend rules apply: Players must abide by all rules and must carry a plushie to be safe',
+    17: 'NO ONE IS SAFE (can be tagged anytime even with the animal and LAST DAY OF ELIMINATION)',
 };
 
 export function getTodaysChallenge() {
