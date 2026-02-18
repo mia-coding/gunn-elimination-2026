@@ -30,6 +30,9 @@ const rules = {
     15: 'Weekend rules apply: Players must abide by all rules and must carry a plushie to be safe',
     16: '(No school) Weekend rules apply: Players must abide by all rules and must carry a plushie to be safe',
     17: 'NO ONE IS SAFE (can be tagged anytime even with the animal and LAST DAY OF ELIMINATION)',
+    18: 'Game over! Check out the leaderboard for winners!'
+    19: 'Game over! Check out the leaderboard for winners!'
+    20: 'Game over! Check out the leaderboard for winners!'
 };
 
 export function getTodaysChallenge() {
