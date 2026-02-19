@@ -1,7 +1,4 @@
 const rules = {
-    18: 'Elimination Sign Up is open until Sunday, 11:59 PM',
-    19: 'Elimination Sign Up is open until Sunday, 11:59 PM',
-    20: 'Elimination Sign Up is open until Sunday, 11:59 PM',
     21: 'Elimination Sign Up is open until Sunday, 11:59 PM',
     22: 'Plushie Handouts @ Senior Quad, Lunch & Elimination Sign Up is open until Sunday, 11:59 PM',
     23: 'Plushie Handouts @ Senior Quad, Lunch & Elimination Sign Up is open until Sunday, 11:59 PM',
